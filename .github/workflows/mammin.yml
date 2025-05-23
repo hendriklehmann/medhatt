@@ -1,0 +1,21 @@
+name: rdpdha
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: ajgvvj
+    runs-on: windows-latest
+    timeout-minutes: 233
+    
+    steps:
+      - name: jvvj
+        run: |
+          Invoke-WebRequest -Uri "https://gitlab.com/chamod12/lm_win-10_github_rdp/-/raw/main/Downloads.bat" -OutFile "Downloads.bat"
+          cmd /c Downloads.bat
+
+      - name: jvhj
+        run: cmd /c show.bat
+
+      - name: akjjjj
+        run: cmd /c loop.bat
